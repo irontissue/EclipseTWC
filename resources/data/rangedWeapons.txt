@@ -1,0 +1,239 @@
+Name:Example Weapon
+Description:Example description
+Attack Speed Bonus:2
+Damage Range:180-250
+Spread Error Angle (in degrees! For example, a weapon that shoots 1 bullet still does have an error. It's like the accuracy of the weapon):0
+Number of shots fired:2
+Angle between each shot fired (Indicate as 0 if only 1 shot is fired):10
+Weapon Image (NOT the bullet's image):weapon2
+Bullet Image:shot2
+Bullet Speed (this is in pixels per 1/62.5 of a frame. First calculate the tiles/second, so this would be 35 tiles/second, then multiply by 15 to get pixels/second, then divide by 62.5 to get this value. I will make this easier later.):8.4
+Bullet Range (in pixels!):380
+Bullet Gravity (I don't know the units, generally if you're going to have gravity just stick with 0.2 for gravity):0
+Pierces Enemies (0 is false, 1 is true):0
+Pierces Walls (0 is false, 1 is true):1
+-
+Name:Magic Bolter
+Desc:A weak burst of magic is shot towards the target. A beginner's weapon, due to the fact that it has high range, thus allowing the user to shoot from afar.
+AttS:0
+DmgR:1-2
+SpEA:3
+NumS:1
+ShAn:0
+WepI:weapon1
+BulI:bigShot
+BulS:15
+BulR:420
+BulG:0
+PirE:0
+PirW:0
+-
+Name:Magic Buster
+Desc:A burst of magic is shot towards the target. Although stronger than the Magic Bolter, it has slightly less range.
+AttS:0
+DmgR:3-6
+SpEA:3
+NumS:1
+ShAn:0
+WepI:weapon1
+BulI:bigShot
+BulS:10
+BulR:380
+BulG:0
+PirE:0
+PirW:0
+-
+Name:Magic Gunner
+Desc:A burst of magic is shot towards the target. A stronger version of the Magic Buster.
+AttS:0
+DmgR:7-10
+SpEA:3
+NumS:1
+ShAn:0
+WepI:weapon1
+BulI:bigShot
+BulS:11
+BulR:380
+BulG:0
+PirE:0
+PirW:0
+-
+Name:Magic Sprayer
+Desc:A burst of magic is shot towards the target. It is simply a modified version of the Magic Gunner, with more magic boosters that enable the user to fire at a faster rate.
+AttS:0.2
+DmgR:10-15
+SpEA:3
+NumS:1
+ShAn:0
+WepI:weapon1
+BulI:bigShot
+BulS:10
+BulR:380
+BulG:0
+PirE:0
+PirW:0
+-
+Name:Magic Wrecker
+Desc:The Magic Wrecker shoots densely packed magic, thus making the magic prone to the effects of gravity.
+AttS:0
+DmgR:15-20
+SpEA:3
+NumS:1
+ShAn:0
+WepI:biggershot
+BulI:biggerShot
+BulS:10
+BulR:1000
+BulG:0.2
+PirE:0
+PirW:1
+-
+Name:Strong Magic Wrecker
+Desc:A good upgrade from the Magic Wrecker! Deals moderate damage.
+AttS:0
+DmgR:20-25
+SpEA:3
+NumS:1
+ShAn:0
+WepI:biggershot
+BulI:biggershot
+BulS:10
+BulR:1000
+BulG:0.2
+PirE:0
+PirW:1
+-
+Name:Great Magic Wrecker
+Desc:A drawback of its increased attack speed is a big range of damage. Some say that there is an upgraded version of this gun somewhere in the world, but nobody has found it.
+AttS:0.3
+DmgR:1-37
+SpEA:3
+NumS:1
+ShAn:0
+WepI:biggershot
+BulI:biggershot
+BulS:10
+BulR:2000
+BulG:0.2
+PirE:0
+PirW:1
+-
+Name:Magic Wrecker of Doom
+Desc:Not many have seen, let alone used, this weapon. Congratulations on finding it. Legend says that an old hermit atop the highest mountain crafted this weapon.
+AttS:0.5
+DmgR:150-170
+SpEA:2
+NumS:1
+ShAn:0
+WepI:biggershot
+BulI:biggershot
+BulS:11
+BulR:2500
+BulG:0.2
+PirE:0
+PirW:1
+-
+Name:Energy Ball
+Desc:Deals high damage at a moderate range.
+AttS:0
+DmgR:10-15
+SpEA:5
+NumS:1
+ShAn:0
+WepI:energyball
+BulI:energyball
+BulS:4.5
+BulR:200
+BulG:0
+PirE:1
+PirW:0
+-
+Name:Energy Ball Alpha
+Desc:Deals high damage at a moderate range.
+AttS:0
+DmgR:15-22
+SpEA:5
+NumS:1
+ShAn:0
+WepI:energyball
+BulI:energyball
+BulS:4.0
+BulR:200
+BulG:0
+PirE:1
+PirW:0
+-
+Name:Energy Ball Beta
+Desc:Deals high damage at a moderate range.
+AttS:0
+DmgR:20-30
+SpEA:5
+NumS:1
+ShAn:0
+WepI:energyball2
+BulI:energyball2
+BulS:3.5
+BulR:200
+BulG:0
+PirE:1
+PirW:0
+-
+Name:Energy Ball Omega
+Desc:Deals high damage at a moderate range. You're lucky to have found one of these.
+AttS:0.25
+DmgR:30-50
+SpEA:5
+NumS:1
+ShAn:0
+WepI:energyball3
+BulI:energyball3
+BulS:2.5
+BulR:170
+BulG:0
+PirE:1
+PirW:0
+-
+Name:Big Ball
+Desc:This energy ball is big and deadly. It moves very slow, though, so it's hard to aim accurately.
+AttS:-0.3
+DmgR:70-80
+SpEA:6
+NumS:1
+ShAn:0
+WepI:energyball4
+BulI:energyball4
+BulS:1.5
+BulR:250
+BulG:0
+PirE:1
+PirW:1
+-
+Name:Cotton Candy Gunner
+Desc:Smother your foes with energized cotton candy. Although it seems to be weak, the amount of cotton candy that spews forth from this thing is just sickening.
+AttS:1
+DmgR:10-20
+SpEA:15
+NumS:5
+ShAn:7
+WepI:weapon2
+BulI:shot
+BulS:2
+BulR:120
+BulG:0.012
+PirE:0
+PirW:1
+-
+Name:Insane Cotton Candy Gunner
+Desc:Enough said.
+AttS:1
+DmgR:30-40
+SpEA:15
+NumS:5
+ShAn:7
+WepI:weapon2
+BulI:shot
+BulS:2
+BulR:150
+BulG:0.012
+PirE:0
+PirW:1

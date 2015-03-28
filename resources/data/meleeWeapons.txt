@@ -1,0 +1,142 @@
+Name:Admin Sword
+Desc (Description):Swag
+AttS (Attack Speed Increase in decimal, double. In this example, the weapon has 50% increased attack speed.):0.5
+DmgR (Damage Range, int-int):1000-1500
+ArcL (Arc Length in Degrees, int):360
+SwSp (Swing speed in Degrees/62.5 frame (5 swingspeed is good for a 60 degree arc length, unless you purposefully want to make a slow sword), int):6
+PirE (Pierces Enemies? 0 = false, 1 = true):1
+PirW (Pierces Walls? 0 = false, 1 = true):1
+WepI (Weapon Image, String):wooden sword
+BulI (Bullet/Shot Image, String):wooden sword
+-
+Name:Wooden Training Sword
+Desc:A sturdy wooden sword with a blunt end. Not recommended for use in fighting, although it may suffice.
+AttS:0
+DmgR:2-5
+ArcL:60
+SwSp:3
+PirE:1
+PirW:0
+WepI:wooden sword
+BulI:wooden sword
+-
+Name:Sharp Wooden Sword
+Desc:You could say it is a sharpened wooden stick, with a stubby hilt at one end. Still, better than training swords.
+AttS:0
+DmgR:5-10
+ArcL:60
+SwSp:3
+PirE:1
+PirW:0
+WepI:wooden sword
+BulI:wooden sword
+-
+Name:Wooden Spike
+Desc:A finely sharpened piece of sturdy wood, with a comfortable hilt at one end.
+AttS:0.15
+DmgR:8-11
+ArcL:60
+SwSp:3
+PirE:1
+PirW:0
+WepI:wooden sword
+BulI:wooden sword
+-
+Name:Light Wooden Sword
+Desc:Made out of light, yet strong wood. 
+AttS:0.5
+DmgR:4-8
+ArcL:90
+SwSp:5
+PirE:1
+PirW:0
+WepI:wooden sword
+BulI:wooden sword
+-
+Name:Metal Sword
+Desc:A metal sword.
+AttS:0
+DmgR:15-20
+ArcL:60
+SwSp:3
+PirE:1
+PirW:1
+WepI:metal sword
+BulI:metal sword
+-
+Name:Sharp Metal Sword
+Desc:A metal sword, with a dangerously pointy end.
+AttS:0
+DmgR:21-30
+ArcL:60
+SwSp:3
+PirE:1
+PirW:1
+WepI:metal sword
+BulI:metal sword
+-
+Name:Scrap Metal Sword
+Desc:Oddly enough, this sword, forged from various scrap metals, is very useful for fighting.
+AttS:0
+DmgR:33-40
+ArcL:60
+SwSp:3
+PirE:1
+PirW:1
+WepI:scrap metal sword
+BulI:scrap metal sword
+-
+Name:The Metal Destroyer
+Desc:A huge metal sword that was supposedly designed by an amateur swordsmith who was trying to make a simple Metal Sword. Apparently, his master perfected it into this lethal weapon.
+AttS:-0.25
+DmgR:60-70
+ArcL:90
+SwSp:5
+PirE:1
+PirW:1
+WepI:big metal sword
+BulI:big metal sword
+-
+Name:Hot Metal Blade
+Desc:Simple magic infused into this blade makes it hot and deadly.
+AttS:0
+DmgR:35-70
+ArcL:60
+SwSp:4
+PirE:1
+PirW:1
+WepI:hot metal sword
+BulI:hot metal sword
+-
+Name:Burning Metal Blade
+Desc:Advanced magic turned this blade into a super hot killing machine.
+AttS:0
+DmgR:60-80
+ArcL:60
+SwSp:4
+PirE:1
+PirW:1
+WepI:hot metal sword
+BulI:hot metal sword
+-
+Name:Thin Iron Sword
+Desc:Slightly wobbly, so it's hard to get a good hit, but very deadly if you do.
+AttS:0
+DmgR:10-140
+ArcL:60
+SwSp:4
+PirE:1
+PirW:0
+WepI:thin metal sword
+BulI:thin metal sword
+-
+Name:Big Fabulous Sword
+Desc:A gigantic blade that can cut through almost anything.
+AttS:-0.5
+DmgR:100-120
+ArcL:100
+SwSp:5
+PirE:1
+PirW:1
+WepI:bigsword
+BulI:bigsword

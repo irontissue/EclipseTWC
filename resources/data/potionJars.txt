@@ -1,0 +1,153 @@
+Name:Health Potion Jar
+Desc:Heals for a max of 75 health.
+Imag:potionJar
+Type (refer to PotionJar.class for type meanings):0
+Amnt:75
+CDwn:2
+-
+Name:Energy Potion Jar
+Desc:Heals for a max of 75 energy.
+Imag:potionJar
+Type:1
+Amnt:75
+CDwn:2
+-
+Name:Super Health Potion Jar
+Desc:Heals for a max of 200 health.
+Imag:potionJar
+Type:0
+Amnt:200
+CDwn:2
+-
+Name:Super Energy Potion Jar
+Desc:Heals for a max of 200 energy.
+Imag:potionJar
+Type:1
+Amnt:200
+CDwn:2
+-
+Name:Great Health Potion Jar
+Desc:Heals for a max of 400 health.
+Imag:potionJar
+Type:0
+Amnt:400
+CDwn:3
+-
+Name:Great Energy Potion Jar
+Desc:Heals for a max of 400 energy.
+Imag:potionJar
+Type:1
+Amnt:400
+CDwn:3
+-
+Name:Big Health Potion Jar
+Desc:Heals for a max of 600 health.
+Imag:potionJar
+Type:0
+Amnt:700
+CDwn:3
+-
+Name:Big Energy Potion Jar
+Desc:Heals for a max of 600 energy.
+Imag:potionJar
+Type:1
+Amnt:700
+CDwn:3
+-
+Name:Large Health Potion Jar
+Desc:Heals for a max of 800 health.
+Imag:potionJar
+Type:0
+Amnt:800
+CDwn:3
+-
+Name:Large Energy Potion Jar
+Desc:Heals for a max of 800 energy.
+Imag:potionJar
+Type:1
+Amnt:800
+CDwn:3
+-
+Name:Huge Health Potion Jar
+Desc:Heals for a max of 1000 health.
+Imag:potionJar
+Type:0
+Amnt:1000
+CDwn:3
+-
+Name:Huge Energy Potion Jar
+Desc:Heals for a max of 1000 energy.
+Imag:potionJar
+Type:1
+Amnt:1000
+CDwn:3
+-
+Name:Enormous Health Potion Jar
+Desc:Heals for a max of 1500 health.
+Imag:potionJar
+Type:0
+Amnt:1500
+CDwn:3
+-
+Name:Enormous Energy Potion Jar
+Desc:Heals for a max of 1500 energy.
+Imag:potionJar
+Type:1
+Amnt:1500
+CDwn:3
+-
+Name:Colossal Health Potion Jar
+Desc:Heals for a max of 2000 health.
+Imag:potionJar
+Type:0
+Amnt:2000
+CDwn:3
+-
+Name:Colossal Energy Potion Jar
+Desc:Heals for a max of 2000 energy.
+Imag:potionJar
+Type:1
+Amnt:2000
+CDwn:3
+-
+Name:Legendary Health Potion Jar
+Desc:Heals for a max of 3000 health.
+Imag:potionJar
+Type:0
+Amnt:3000
+CDwn:3
+-
+Name:Legendary Energy Potion Jar
+Desc:Heals for a max of 3000 energy.
+Imag:potionJar
+Type:1
+Amnt:3000
+CDwn:3
+-
+Name:Godly Health Potion Jar
+Desc:Heals for a max of 5000 health.
+Imag:potionJar
+Type:0
+Amnt:5000
+CDwn:3
+-
+Name:Godly Energy Potion Jar
+Desc:Heals for a max of 5000 energy.
+Imag:potionJar
+Type:1
+Amnt:5000
+CDwn:3
+-
+Name:OP Health Potion Jar
+Desc:Heals for a max of 100000 health.
+Imag:potionJar
+Type:0
+Amnt:100000
+CDwn:3
+-
+Name:OP Energy Potion Jar
+Desc:Heals for a max of 100000 energy.
+Imag:potionJar
+Type:1
+Amnt:100000
+CDwn:3
